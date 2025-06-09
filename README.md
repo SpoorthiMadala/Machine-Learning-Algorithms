@@ -20,5 +20,16 @@ Each algorithm is implemented in a separate notebook and organized in a structur
 - A dedicated Jupyter notebook (`.ipynb`)
 - An individual `README.md` file with explanation, mathematical background, and use cases
 
-## Folder Layout
+
+## Goals
+
+- Provide an educational resource for beginners and intermediate learners
+- Bridge theory and implementation in an accessible format
+- Support both from-scratch and library-based implementations
+- Ensure clean, modular, and well-commented code for each algorithm
+
+
+
+
+
 
