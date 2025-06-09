@@ -1,5 +1,5 @@
 # Machine-Learning-Algorithms
-# Machine Learning Algorithms
+
 
 This repository provides a comprehensive collection of well-documented Jupyter notebooks that demonstrate the implementation of fundamental and advanced machine learning algorithms. The goal of this project is to offer an educational resource that combines theoretical explanations with practical code examples.
 
